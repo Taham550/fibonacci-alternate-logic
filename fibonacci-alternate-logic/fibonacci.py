@@ -15,4 +15,4 @@ for i in range(1,n+1): # for loop fro 1 to n
             print(pre1)
         else: # and when i%2 == 0 then it print pre2 
             pre2 = pre2 + pre1 # same as update pre2 value when i%2 == 0
-        print(pre2)
+            print(pre2)
